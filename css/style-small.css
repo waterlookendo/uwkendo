@@ -53,6 +53,12 @@
 		padding: 5em 2em 4em 2em;
 	}
 
+	#banner .inner {
+	    margin-left: 1em;
+	    margin-right: 1em;
+	}
+
+
 		#banner h2 {
 			font-size: 2em;
 		}

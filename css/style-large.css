@@ -16,6 +16,11 @@
 		padding: 8em;
 	}
 
+	#banner .inner {
+		margin-left: 6em;
+		margin-right: 6em;
+	}
+
 		#banner h2 {
 			font-size: 2.5em;
 		}
