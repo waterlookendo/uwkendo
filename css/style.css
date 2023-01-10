@@ -74,6 +74,11 @@ h6 a {
     text-decoration: none;
 }
 
+h1 {
+    font-size: 2em;
+    line-height: 2em;
+}
+
 h2 {
     font-size: 1.5em;
     line-height: 1.5em;
@@ -919,6 +924,7 @@ input[type="button"]:disabled,
     color: #c5c7c8;
 }
 
+.wrapper.style2 h1,
 .wrapper.style2 h2,
 .wrapper.style2 h3,
 .wrapper.style2 h4,
@@ -1057,7 +1063,7 @@ input[type="button"]:disabled,
 
 #banner {
     background-color: #666666;
-    background-image: url("../images/IMG_2711.JPG");
+    background-image: url("../images/DSCF8189.jpg");
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -1097,6 +1103,7 @@ input[type="button"]:disabled,
     margin-bottom: 0;
 }
 
+#banner h1,
 #banner h2,
 #banner h3,
 #banner h4,
@@ -1134,8 +1141,8 @@ input[type="button"]:disabled,
 }
 
 #banner p {
+    margin: 0 2em 2em 2em;
     font-size: 1.3em;
-    margin-bottom: 2em;
 }
 
 #banner p a {
